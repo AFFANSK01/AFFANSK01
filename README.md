@@ -9,7 +9,7 @@
 ### Glad to see you here! 
 <img align="right" width="100" alt="" src="assets/rzp.gif" />
 
-Frontend skilled developer👨🏻‍💻 from India having experience in developing range of web applications and specialization in creating the user interface and user experience of websites. I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into Web 🕸️ Development.
+Frontend & Backend skilled developer👨🏻‍💻 from India having experience in developing range of web applications and specialization in creating the user interface and user experience of websites. I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into Web 🕸️ Development.
 
 If you have opportunity where I can contribute and help your organization to grow. Let's connect 🚀
 
@@ -17,10 +17,10 @@ Joined Github 3 years ago.
 
 ### Talking about Personal Stuff :
 
-- 🛠 &nbsp; At the moment working with ReactJS, Typescript, MERN Stack.
-- 👀 &nbsp; Currently learning NextJS and React Native.
-- 👨🏻‍💻 &nbsp; All my contribution on [Github](https://github.com/Shivamjain2204) are genuine.
-- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/Shivamjain013) or jainshivam2204@gmail.com.
+- 🛠 &nbsp; At the moment working with SpringBoot, Spring, AngularJS, Typescript, JPA, Java, Advance Java, Java Full Stack.
+- 👀 &nbsp; Currently learning ReactJS and React Native.
+- 👨🏻‍💻 &nbsp; All my contribution on [Github](https://github.com/AFFANSK01) are genuine.
+- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/Affan_sk07) or shaikhaffan9386@gmail.com.
   
 
 - ### My Absolute Favorites :
@@ -31,10 +31,9 @@ Joined Github 3 years ago.
 
   **Tech stack:**  <br />
 
-   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![AngularJS](https://img.shields.io/badge/angular.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   <a href="#"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&&logoColor=white&labelColor=black&color=2E2E2E"/></a>
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
