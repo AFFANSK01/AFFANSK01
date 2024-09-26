@@ -1,5 +1,6 @@
  - ## Hey 👋, I'm [Affan Shaikh!](https://www.linkedin.com/in/affan-shaikh-4b629b225/)
  - <h3>A Passionate Software Engineer from India</h3>
+ <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/affan-shaikh-4b629b225/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__mrr.affan/)
