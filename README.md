@@ -2,8 +2,8 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/affan-shaikh-4b629b225/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__mrr.affan/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shivamjain013)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://shivam-portfolio-rose.vercel.app/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Affan_sk07)
+ 
 
 
 ### Glad to see you here! 
@@ -21,7 +21,7 @@ Joined Github 3 years ago.
 - 👀 &nbsp; Currently learning NextJS and React Native.
 - 👨🏻‍💻 &nbsp; All my contribution on [Github](https://github.com/Shivamjain2204) are genuine.
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/Shivamjain013) or jainshivam2204@gmail.com.
-- 🚀 &nbsp; My [Portfolio Website](https://shivam-portfolio-rose.vercel.app/) 
+  
 
 - ### My Absolute Favorites :
 
